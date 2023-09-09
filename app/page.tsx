@@ -62,22 +62,22 @@ export default function Home() {
         </div>
         <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
           <p>
-            Hey everyone may name is Farrukh, I am 42 years old and I am a Full
-            Stack Developer based in Islamabad/Pakistan.
+            Hey everyone my name is Farrukh, I am 42 years old and I am a Full
+            Stack Developer based in Rawalpindi/Pakistan.
           </p>
           <p>
-            I love building Full Stack applications with Nextjs and to share
-            them on GitHub and YouTube. When I discovered Nextjs, I was blown
-            away by its interactivity and speed. Its virtual DOM and efficient
-            rendering mechanisms allowed me to create dynamic user interfaces
-            that responded to user action in real-time.
+            I love building Full Stack applications with Nextjs using
+            Tailwindcss, shadcn-ui and GenAI integration. And to share them with
+            open source on GitHub. When I discovered Nextjs and GenAI, I was
+            blown away by its interactivity and speed. Its virtual DOM and
+            efficient rendering mechanisms allowed me to create dynamic user
+            interfaces that responded to user action in real-time.
           </p>
           <p>
             Building different applications in Nextjs and outsource them on
-            GitHub and YouTube is my ultimate combination of creative
-            expression, technical expertise and community engagement. I am
-            thrilled to continue this journey, honing my skills and inspiring
-            others in process.
+            GitHub is my ultimate combination of creative expression, technical
+            expertise and community engagement. I am thrilled to continue this
+            journey, honing my skills and inspiring others in process.
           </p>
         </div>
       </div>
