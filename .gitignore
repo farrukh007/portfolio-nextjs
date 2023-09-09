@@ -19,8 +19,6 @@
 .DS_Store
 *.pem
 
-/public/pic.jpg
-
 # debug
 npm-debug.log*
 yarn-debug.log*
