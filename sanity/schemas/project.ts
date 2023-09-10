@@ -19,9 +19,14 @@ export default {
       title: 'Image',
     },
     {
-      name: 'link',
+      name: 'linkvercel',
       type: 'string',
-      title: 'Link',
+      title: 'Link Vercel',
+    },
+    {
+      name: 'linkgithub',
+      type: 'string',
+      title: 'Link GitHub',
     },
   ],
 }
