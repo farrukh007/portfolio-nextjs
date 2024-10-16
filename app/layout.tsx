@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { Inter, Sora } from "next/font/google";
 import Navbar from "@/components/Navbar";
 import { Provider } from "@/components/Provider";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 // const inter = Inter({ subsets: ["latin"] });
 const inter = Sora({
@@ -31,6 +32,7 @@ export default function RootLayout({
             {children}
           </main>
         </Provider>
+        <WhatsAppButton />
       </body>
     </html>
   );

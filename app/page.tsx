@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Me from "@/public/pic.jpg";
+import Me from "@/public/pic2.jpg";
 export default function Home() {
   return (
     <div className="divide-y divide-gray-100 dark:divide-gray-700">
@@ -71,16 +71,18 @@ export default function Home() {
         </div>
         <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
           <p>
-            Hey everyone my name is Farrukh, I am 42 years old and I am a Full
-            Stack Developer based in Rawalpindi/Pakistan.
+            Hey everyone my name is Farrukh, I am a Full Stack Developer based
+            in Pakistan.
           </p>
           <p>
             I love building Full Stack applications with Nextjs using
-            Tailwindcss, shadcn-ui and GenAI integration. And to share them with
-            open source on GitHub. When I discovered Nextjs and GenAI, I was
-            blown away by its interactivity and speed. Its virtual DOM and
-            efficient rendering mechanisms allowed me to create dynamic user
-            interfaces that responded to user action in real-time.
+            Tailwindcss and integration of builtin components i.e. shadcn/ui,
+            Aceternity UI and GenAI integration using Python for backend
+            development. And to share them with open source on GitHub. When I
+            discovered Nextjs and GenAI, I was blown away by its interactivity
+            and speed. Its virtual DOM and efficient rendering mechanisms
+            allowed me to create dynamic user interfaces that responded to user
+            action in real-time.
           </p>
           <p>
             Building different applications in Nextjs and outsource them on
